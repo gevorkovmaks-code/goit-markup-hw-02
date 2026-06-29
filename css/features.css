@@ -13,7 +13,7 @@
     white-space: nowrap;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
-        overflow: hidden; */
+    overflow: hidden; */
 
 }
 
@@ -27,6 +27,7 @@
 
 .features-list-title {
     font-weight: 500;
+    letter-spacing: 0.02em;
     font-size: 20px;
     line-height: 1.2;
     color: #2e2f42;
